@@ -1,0 +1,36 @@
+#myTab{
+	background-color:#5985C8;
+}
+
+.li1{
+	height:50px; 
+	margin-bottom:1px;
+}
+
+#li2{
+	height:50px; 
+	margin-bottom:1px;
+	float:right;
+}
+
+.a1{
+	padding-top:0px; 
+	margin-top:2px; 
+	height:99%;
+	color:black;
+	margin-bottom:1px;
+}
+
+#a2{
+	padding-top:0px; 
+	margin-top:2px; 
+	height:99%;
+	color:black;
+	margin-bottom:1px;
+	margin-right: 2px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	border-radius:10px;
+}
+
